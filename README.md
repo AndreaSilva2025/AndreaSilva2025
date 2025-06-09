@@ -1,5 +1,6 @@
 <img align="center" src="https://github.com/AndreaSilva2025/AndreaSilva2025/blob/main/capa.png" />
 
+
 <h1 align="center">Olá, eu sou a Andrea Silva 👩‍💼</h1>
 
 <p align="center">
