@@ -1,4 +1,5 @@
 <img align="center" src="https://github.com/AndreaSilva2025/AndreaSilva2025/blob/main/capa.png" />
+
 ### 🚀 My Stack
 
 <p align="center">
