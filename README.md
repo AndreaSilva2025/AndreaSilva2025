@@ -48,7 +48,7 @@ Planilha automatizada para metas, risco de inadimplência e clusterização de p
 
 #### 📈 **Forecast Financeiro com Python**
 Modelo de previsão com Pandas e visualização de variações orçamentárias.  
-🔗 *Em breve*
+🔗 https://github.com/AndreaSilva2025/Forecast_Financeiro
 
 #### 📑 **Relatórios Automatizados com SQL + Power BI**
 Extração de dados do SAP e geração de dashboards para tomada de decisão.  
