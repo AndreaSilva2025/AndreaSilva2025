@@ -50,6 +50,28 @@ Processo de extração e análise de dados a partir de SAP, com automatização 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ---
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreaSilva2025&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSilva2025&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🚀 My Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi" />
+  <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-SAP-gray?style=flat-square&logo=sap" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+</p>
+
 
 ### 📫 Vamos conversar?
 
