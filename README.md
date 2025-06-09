@@ -50,8 +50,8 @@ Planilha automatizada para metas, risco de inadimplência e clusterização de p
 Modelo de previsão com Pandas e visualização de variações orçamentárias.  
 🔗 https://github.com/AndreaSilva2025/Forecast_Financeiro
 
-#### 📑 **Relatórios Automatizados com SQL + Power BI**
-Extração de dados do SAP e geração de dashboards para tomada de decisão.  
+#### 📊 **Dashboard Financeiro Comercial (Power BI)**
+Análise interativa das vendas nacionais por período, região e equipe comercial.  
 🔗 *Em breve*
 
 ---
