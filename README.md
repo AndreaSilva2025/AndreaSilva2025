@@ -1,4 +1,14 @@
 <img align="center" src="https://github.com/AndreaSilva2025/AndreaSilva2025/blob/main/capa.png" />
+### 🚀 My Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi" />
+  <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-SAP-gray?style=flat-square&logo=sap" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+</p>
 
 
 <h1 align="center">Olá, eu sou a Andrea Silva 👩‍💼</h1>
@@ -61,16 +71,6 @@ Processo de extração e análise de dados a partir de SAP, com automatização 
 
 ---
 
-### 🚀 My Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-SAP-gray?style=flat-square&logo=sap" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-</p>
 
 
 ### 📫 Vamos conversar?
