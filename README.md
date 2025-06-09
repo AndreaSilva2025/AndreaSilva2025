@@ -11,8 +11,11 @@
 
 ---
 
-<h1 align="center">Olá, eu sou a Andrea Silva <img src="https://img.icons8.com/ios-glyphs/30/woman-user.png" width="24"/>
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="30" />
+  Olá, eu sou a Andrea Silva
 </h1>
+
 
 <p align="center">
 Especialista em Dados Financeiros • FP&A • Power BI • SQL • Produtos Financeiros  
