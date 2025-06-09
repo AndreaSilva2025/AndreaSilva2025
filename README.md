@@ -1,5 +1,11 @@
 <img align="center" src="https://github.com/AndreaSilva2025/AndreaSilva2025/blob/main/capa.png" />
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreaSilva2025&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSilva2025&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ### 🚀 My Stack
 
 <p align="center">
@@ -63,12 +69,7 @@ Processo de extração e análise de dados a partir de SAP, com automatização 
 ---
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreaSilva2025&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSilva2025&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
