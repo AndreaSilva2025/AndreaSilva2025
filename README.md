@@ -1,34 +1,5 @@
 <img align="center" src="https://github.com/AndreaSilva2025/AndreaSilva2025/blob/main/capa.png" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SAP-gray?style=flat-square&logo=sap" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-</p>
-
----
-
-<h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995593.png" width="32"/>
-  Olá, eu sou a Andrea Silva
-</h1>
-
-<p align="center">
-Especialista em Dados Financeiros • FP&A • Power BI • SQL • Produtos Financeiros • Web & IA  
-<br>
-Transformando dados em decisões estratégicas com foco em rentabilidade, risco e performance 📊💡  
-<br>
-Com conhecimento técnico em linguagens como Python, Java, JavaScript e HTML, aplico soluções em visualização, automação e inteligência artificial.
-</p>
-
----
-
 <h3 align="center">🧠 Minha Stack • Ferramentas & Linguagens</h3>
 
 <p align="center">
@@ -65,6 +36,24 @@ Com conhecimento técnico em linguagens como Python, Java, JavaScript e HTML, ap
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
 </p>
+
+---
+
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995593.png" width="32"/>
+  Olá, eu sou a Andrea Silva
+</h1>
+
+<p align="center">
+Especialista em Dados Financeiros • FP&A • Power BI • SQL • Produtos Financeiros • Web & IA  
+<br>
+Transformando dados em decisões estratégicas com foco em rentabilidade, risco e performance 📊💡  
+<br>
+Com conhecimento técnico em linguagens como Python, Java, JavaScript e HTML, aplico soluções em visualização, automação e inteligência artificial.
+</p>
+
+---
+
 
 ---
 
