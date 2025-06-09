@@ -44,7 +44,7 @@ Análise comparativa dos 5 maiores bancos do Brasil com foco em ROE, inadimplên
 
 #### 🧮 **Simulador de Carteira de Crédito (Excel + VBA)**
 Planilha automatizada para metas, risco de inadimplência e clusterização de perfis.  
-🔗 *Em breve*
+🔗 https://github.com/AndreaSilva2025/Simulador-de-Carteira-de-Credito
 
 #### 📈 **Forecast Financeiro com Python**
 Modelo de previsão com Pandas e visualização de variações orçamentárias.  
