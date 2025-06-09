@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-SAP-gray?style=flat-square&logo=sap" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
@@ -16,13 +19,14 @@
   Olá, eu sou a Andrea Silva
 </h1>
 
-
-
 <p align="center">
-Especialista em Dados Financeiros • FP&A • Power BI • SQL • Produtos Financeiros  
+Especialista em Dados Financeiros • FP&A • Power BI • SQL • Produtos Financeiros • Web & IA  
 <br>
-Transformando dados em decisões estratégicas com foco em rentabilidade, risco e performance 📊💡
+Transformando dados em decisões estratégicas com foco em rentabilidade, risco e performance 📊💡  
+<br>
+Com conhecimento técnico em linguagens como Python, Java, JavaScript e HTML, aplico soluções em visualização, automação e inteligência artificial.
 </p>
+
 
 ---
 
