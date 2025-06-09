@@ -12,7 +12,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140057.png" width="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140057.png](https://cdn-icons-png.flaticon.com/512/1995/1995593.png)" width="30"/>
   Olá, eu sou a Andrea Silva
 </h1>
 
