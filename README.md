@@ -39,7 +39,8 @@ Transformando dados em decisões estratégicas com foco em rentabilidade, risco 
 
 #### 📊 **Dashboard Financeiro Bancário (Power BI)**
 Análise comparativa dos 5 maiores bancos do Brasil com foco em ROE, inadimplência, índice de Basileia e eficiência operacional.  
-🔗 *Em breve*
+🔗 https://github.com/AndreaSilva2025/AnaliseBancaria
+
 
 #### 🧮 **Simulador de Carteira de Crédito (Excel + VBA)**
 Planilha automatizada para metas, risco de inadimplência e clusterização de perfis.  
