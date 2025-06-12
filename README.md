@@ -52,17 +52,6 @@ Transformando dados em decisões estratégicas com foco em rentabilidade, risco 
 Com conhecimento técnico em linguagens como Python, Java, JavaScript e HTML, aplico soluções em visualização, automação e inteligência artificial.
 </p>
 
----
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreaSilva2025&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaSilva2025&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
