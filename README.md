@@ -71,7 +71,7 @@ Modelo de previsão com Pandas e visualização de variações orçamentárias.
 
 #### 📊 **Dashboard Financeiro Comercial (Power BI)**
 Análise interativa das vendas nacionais por período, região e equipe comercial.  
-🔗 (https://app.powerbi.com/view?r=eyJrIjoiZWMyYmIzM2MtOTBkNi00ODIxLTgzM2QtMGJlYzJhYzBjNzlmIiwidCI6IjI5ZTg3NWZjLTM5MzQtNDE2MS1hMGRhLWYyMmRjZGU1Mzk0YyJ9)
+🔗 [(https://app.powerbi.com/view?r=eyJrIjoiZWMyYmIzM2MtOTBkNi00ODIxLTgzM2QtMGJlYzJhYzBjNzlmIiwidCI6IjI5ZTg3NWZjLTM5MzQtNDE2MS1hMGRhLWYyMmRjZGU1Mzk0YyJ9)](https://github.com/AndreaSilva2025/Analise-Financeira)
 
 ---
 
