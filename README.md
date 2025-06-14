@@ -79,6 +79,8 @@ Análise interativa das vendas nacionais por período, região e equipe comercia
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrea-jocelina-cea-/)  
 📧 andrea.admfinancas@gmail.com
+![image](https://github.com/user-attachments/assets/4bfb98a1-2134-4524-ac2d-25c3c1a27fe9) (11) 97071-7090
+
 
 
 
